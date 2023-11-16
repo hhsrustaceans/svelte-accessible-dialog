@@ -1,11 +1,11 @@
 <style>
-  div {
+  /* div {
     background-color: #fff;
     margin: 15vh auto;
     outline: none;
     padding: 2rem;
     width: 50vw; 
-  }
+  } */
 </style>
 
 <div
